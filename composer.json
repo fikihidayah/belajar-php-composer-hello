@@ -1,5 +1,5 @@
 {
-    "name": "programmerzamannow/belajar-php-composer-hello",
+    "name": "fikihidayah/belajar-php-composer-hello",
     "description": "Library Composer Hello",
     "type": "library",
     "authors": [
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ProgrammerZamanNow\\Belajar\\": "src/"
+            "FikiH\\Belajar\\": "src/"
         }
     }
 }
