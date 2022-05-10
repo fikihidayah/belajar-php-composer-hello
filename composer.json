@@ -1,0 +1,19 @@
+{
+    "name": "programmerzamannow/belajar-php-composer-hello",
+    "description": "Library Composer Hello",
+    "type": "library",
+    "authors": [
+        {
+            "name": "fikihidayah",
+            "email": "fikimantap@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "ProgrammerZamanNow\\Belajar\\": "src/"
+        }
+    }
+}
